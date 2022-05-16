@@ -1,0 +1,1 @@
+C++ is comparable to C with battery-included, where the battery are abstractions (e.g., object-oriented programming) and libraries (e.g., std::vector). Although not implying C doesn't come with libraries (it does), the libraries C comes with is pale in comparison to the libraries C++ comes with. 
