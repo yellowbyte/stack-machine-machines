@@ -1,0 +1,2 @@
+Different languages force a programmer to think about computation in a different way. For example, in Racket everything is an expression, or in Python everything is an object. C also forces programmer to think in a particular way about computation. What differ between C and most other languages is that the computation model C confines programmers in is one that matches reality (i.e., the hardware the program is executed on). 
+
