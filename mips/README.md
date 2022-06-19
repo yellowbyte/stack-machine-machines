@@ -1,0 +1,3 @@
+Programming in assembly, or the language that the machine speaks, can be mind-opening in many ways. To me, one such mind-opening concept is for-loop, while-loop, or even recursion (with tail-recursive optimization) essentially boil down to the same underlying instructions: an if-statement where one of the branches jumps backward. That's it.
+
+Another important concept programming in assembly reinforces is the importance of the memory hierarchy. Registers are few, yet all computation has to be done through them. Although higher-level languages free programmers from directly dealing with registers, they also may not be making the most optimal choice. In fact, register allocation takes up a significant chunk of the compilation process, and the problem itself is NP-Complete.
